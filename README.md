@@ -23,4 +23,6 @@ Taking input from the user using cin.
 Using operators (+, -, *, /).
 Using if-else or switch statements for decision-making.
 Error handling (e.g., avoiding division by zero).
-# Difference Between C and C++
+
+# Conclusion
+This experiment helped in understanding the basics of C++ programming, including syntax, input/output operations, and arithmetic operations. C++ is better than C because it supports Object-Oriented Programming, provides better data security, code reusability, and has a Standard Template Library (STL) for advanced operations. Thus, C++ is more suitable for modern software development, large-scale projects, and competitive programming compared to C.
